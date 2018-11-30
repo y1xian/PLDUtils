@@ -1,1 +1,1 @@
-include ':app', ':pldplayer', ':pldshortvideo'
+include ':app', ':pldplayer', ':pldshortvideo', ':pld'
